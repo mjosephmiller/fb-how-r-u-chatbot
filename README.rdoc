@@ -1,4 +1,5 @@
 == README
 
-A Facebook Messenger Chatbot, using Google's Natural Language API.
+A Facebook Messenger Chatbot, using Natural Language Processing from Google.
 
+Built to track a user's mood over time.

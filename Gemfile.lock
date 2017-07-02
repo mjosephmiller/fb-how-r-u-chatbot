@@ -52,6 +52,7 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.0.5)
     debug_inspector (0.0.2)
+    dotenv (2.2.1)
     erubis (2.7.0)
     execjs (2.7.0)
     facebook-messenger (0.11.1)
@@ -200,6 +201,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  dotenv
   facebook-messenger
   google-cloud-language
   jbuilder (~> 2.0)

@@ -37,6 +37,7 @@ group :development, :test do
   gem 'byebug'
   gem 'facebook-messenger'
   gem 'google-cloud-language'
+  gem 'dotenv'
 end
 
 group :development do
